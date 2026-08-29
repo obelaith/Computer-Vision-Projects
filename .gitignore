@@ -1,0 +1,17 @@
+# Data
+data/raw/
+data/output/
+*.avi
+*.mp4
+*.mov
+*.mkv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
